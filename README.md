@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @David-Freeman-722
-- 👀 I’m interested in ... Software Engineering, Embedded Software Development, AI/Machine Learning
+- 👀 I’m interested in ... Software Engineering, Embedded Software Development, AI/Machine Learning, Data Engineering
 - 🌱 I’m currently learning ... AI/Machine Learning, Operating Systems Maintenance and Troubleshooting, AWS, Analysis of Algorithms, Mathematical Modeling, Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email: davealexfree@gmail.com
